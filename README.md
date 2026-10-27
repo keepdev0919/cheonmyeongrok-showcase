@@ -8,7 +8,13 @@
 
 <a href="https://www.cheonmyeongrok.com"><img src="https://img.shields.io/badge/서비스_바로가기-cheonmyeongrok.com-C9A227?style=for-the-badge"/></a>
 
-<!-- TODO 스크린샷 3장: 입력 화면 · 결과 화면 · 부적 (사이트에서 캡처) -->
+<br/><br/>
+
+<img src="screenshots/01-home.jpg" height="420"/>&nbsp;
+<img src="screenshots/02-guide.jpg" height="420"/>&nbsp;
+<img src="screenshots/03-2027.jpg" height="420"/>
+
+<sub>메인 · 사주 읽을거리 · 2027 띠별 신년운세</sub>
 
 </div>
 
